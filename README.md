@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2342,1B4F72&height=200&section=header&text=Damilola%20Oshungbohun&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Finance%20%26%20Business%20Analytics&descAlignY=58&descSize=18&descColor=A8C4E0" />
-
 </div>
 
 <div align="center">
