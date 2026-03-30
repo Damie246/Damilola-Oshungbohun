@@ -51,9 +51,8 @@ My edge: I don't just analyze data — I understand the business context behind 
 
 | Project | Domain | Tools | Description |
 |---|---|---|---|
-| 🏦 **[Financial Anomaly Detection](#)** | Finance | Python, SQL, Tableau | Detecting transaction anomalies in high-volume financial data using statistical methods |
-| 🛍️ **[Retail Sales Performance Dashboard](#)** | Retail / E-commerce | Python, Tableau | End-to-end EDA and interactive dashboard analyzing sales trends and customer behavior |
-| 📈 **[Customer Churn Prediction](#)** | Tech / SaaS | Python, Scikit-Learn | Predictive model forecasting churn risk using 10,000+ customer data points |
+| 🏦 **[Telco Churn Analysis](#)** | Telecoms | Python, Tableau |
+| 🛍️ **[Aviation Satisfaction Analysis](#)** | Aviation | Python, Tableau |
 
 *🔧 Projects actively being added — check back soon or watch this repo for updates.*
 
