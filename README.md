@@ -51,8 +51,8 @@ My edge: I don't just analyze data — I understand the business context behind 
 
 | Project | Domain | Tools | Description |
 |---|---|---|---|
-| 🏦 **[Telco Churn Analysis](#)** | Telecoms | Python, Tableau |
-| 🛍️ **[Aviation Satisfaction Analysis](#)** | Aviation | Python, Tableau |
+| 🏦 **[Telco Churn Analysis](#)** | Telecoms | Python, Tableau | Analysis of customer cancellation behaviour |
+| 🛍️ **[Aviation Satisfaction Analysis](#)** | Aviation | Python, Tableau | Analysis of customer satisfaction |
 
 *🔧 Projects actively being added — check back soon or watch this repo for updates.*
 
