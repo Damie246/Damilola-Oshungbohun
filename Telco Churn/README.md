@@ -1,4 +1,4 @@
-# 📉 Telco Customer Churn Analysis
+#  Telco Customer Churn Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas)
@@ -171,20 +171,20 @@ A **skewness check** is run before numerical tests. `MonthlyCharges` and `TotalC
 
 | Variable | Result |
 |---|---|
-| Contract | ✅ Significant |
-| InternetService | ✅ Significant |
-| TechSupport | ✅ Significant |
-| PaymentMethod | ✅ Significant |
-| PaperlessBilling | ✅ Significant |
-| OnlineSecurity | ✅ Significant |
+| Contract |  Significant |
+| InternetService |  Significant |
+| TechSupport |  Significant |
+| PaymentMethod |  Significant |
+| PaperlessBilling |  Significant |
+| OnlineSecurity |  Significant |
 
 ### Mann-Whitney U Tests — Numerical Variables
 
 | Variable | Result |
 |---|---|
-| MonthlyCharges | ✅ Significant |
-| tenure | ✅ Significant |
-| TotalCharges | ✅ Significant |
+| MonthlyCharges |  Significant |
+| tenure |  Significant |
+| TotalCharges |  Significant |
 
 All nine variables clear p < 0.05 by a wide margin. A significance summary chart visualises all results ranked by −log₁₀(p-value).
 
@@ -235,7 +235,7 @@ A **2×2 matrix** (CLV tier × churn probability tier) produces four segments:
 
 | | Low Risk | High Risk |
 |---|---|---|
-| **High CLV** | STABLE | **CRITICAL 🚨** |
+| **High CLV** | STABLE | **CRITICAL ** |
 | **Low CLV** | HEALTHY | MONITOR |
 
 The **CRITICAL** segment is the primary output — high-value customers the model flags as likely to leave, with total revenue at risk computed per segment.
@@ -277,13 +277,13 @@ A **tier validation chart** confirms calibration: actual churn rates increase mo
 
 | Priority | Action | Driven by |
 |---|---|---|
-| 🔴 High | Deploy churn model — flag CRITICAL customers weekly for retention team | Risk segmentation |
-| 🔴 High | Offer first-year loyalty discounts to migrate month-to-month → annual contracts | Contract trap |
-| 🔴 High | Implement proactive 90-day onboarding programme for all new customers | Danger zone |
-| 🟡 Medium | Bundle Tech Support into Fiber Optic entry packages at no added cost | Tech support lifeline |
-| 🟡 Medium | Audit Fiber Optic service quality — investigate NPS and support ticket volume | Premium paradox |
-| 🟡 Medium | Incentivise electronic check users to switch to automatic payment | Electronic check signal |
-| 🟢 Low | Use SHAP profiles to personalise retention offers per customer risk driver | SHAP analysis |
+|  High | Deploy churn model — flag CRITICAL customers weekly for retention team | Risk segmentation |
+|  High | Offer first-year loyalty discounts to migrate month-to-month → annual contracts | Contract trap |
+|  High | Implement proactive 90-day onboarding programme for all new customers | Danger zone |
+|  Medium | Bundle Tech Support into Fiber Optic entry packages at no added cost | Tech support lifeline |
+|  Medium | Audit Fiber Optic service quality — investigate NPS and support ticket volume | Premium paradox |
+|  Medium | Incentivise electronic check users to switch to automatic payment | Electronic check signal |
+|  Low | Use SHAP profiles to personalise retention offers per customer risk driver | SHAP analysis |
 
 ---
 
