@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm a **data analyst with a finance foundation** — combining a Master of Business Analytics (Schulich School of Business, York University) with hands-on experience turning complex financial and operational data into decisions that move the needle.
 
@@ -27,7 +27,7 @@ My edge: I don't just analyze data — I understand the business context behind 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -45,20 +45,20 @@ My edge: I don't just analyze data — I understand the business context behind 
 
 ---
 
-## 📊 Portfolio Projects
+##  Portfolio Projects
 
 > Projects spanning finance, retail, and tech — built with real datasets, documented for clarity.
 
 | Project | Domain | Tools | Description |
 |---|---|---|---|
-| 🏦 **[Telco Churn Analysis](#)** | Telecoms | Python, Tableau | Analysis of customer cancellation behaviour |
-| 🛍️ **[Aviation Satisfaction Analysis](#)** | Aviation | Python, Tableau | Analysis of customer satisfaction |
+|  **[Telco Churn Analysis](#)** | Telecoms | Python, Tableau | Analysis of customer cancellation behaviour |
+|  **[Aviation Satisfaction Analysis](#)** | Aviation | Python, Tableau | Analysis of customer satisfaction |
 
-*🔧 Projects actively being added — check back soon or watch this repo for updates.*
+* Projects actively being added — check back soon or watch this repo for updates.*
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -69,32 +69,32 @@ My edge: I don't just analyze data — I understand the business context behind 
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
-- 🎓 **Master of Business Analytics** — Schulich School of Business, York University *(2024)*
-- 🎓 **BBA in Accounting** — C. T. Bauer College of Business, University of Houston *(2021)*
-- 🏅 **Certified Business Analysis Professional (CBAP)** — IIBA *(2026)*
-- 🏅 **Google Data Analytics Certificate** — Google *(2022)*
-- 🏅 **Microsoft Powerup Program** *(2023)*
-
----
-
-## 💼 Experience Snapshot
-
-```
-City of Hamilton       │ Accountant & Business Analyst     │ 2024 – Present
-CloudTax Inc.          │ Business Analyst                  │ 2022 – 2023
-Jitasa                 │ Accountant                        │ 2021 – 2022
-```
+-  **Master of Business Analytics** — Schulich School of Business, York University *(2024)*
+-  **BBA in Accounting** — C. T. Bauer College of Business, University of Houston *(2021)*
+-  **Certified Business Analysis Professional (CBAP)** — IIBA *(2026)*
+-  **Google Data Analytics Certificate** — Google *(2022)*
+-  **Microsoft Powerup Program** *(2023)*
 
 ---
 
-## 📫 Let's Connect
+##  Experience Snapshot
 
-I'm actively exploring **Data Analyst roles** in finance, tech, and retail. If you're working on interesting data problems, I'd love to talk.
+```
+City of Hamilton       │ 2024 – Present
+CloudTax Inc.          │ 2022 – 2023
+Jitasa                 │ 2021 – 2022
+```
 
-📧 [damilolaoshungbohun@gmail.com](mailto:damilolaoshungbohun@gmail.com)
-🔗 [linkedin.com/in/damilola-oshungbohun](https://www.linkedin.com/in/damilola-oshungbohun/)
+---
+
+##  Let's Connect
+
+I'm actively exploring **Data Analyst roles**. If you're working on interesting data problems, I'd love to talk.
+
+ [damilolaoshungbohun@gmail.com](mailto:damilolaoshungbohun@gmail.com)
+ [linkedin.com/in/damilola-oshungbohun](https://www.linkedin.com/in/damilola-oshungbohun/)
 
 ---
 
