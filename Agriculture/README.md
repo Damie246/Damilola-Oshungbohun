@@ -1,4 +1,4 @@
-# 🌾 Agricultural Crop Recommendation System
+#  Agricultural Crop Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas)
